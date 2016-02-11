@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="opencvmfc">
+</Property><Property Name="Solution File" Value="C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc.suo">
+</Property><Property Name="Date" Value="Wednesday, February 10, 2016">
+</Property><Property Name="Time" Value="22:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="opencvmfc.sln" Description="File successfully backed up as C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="opencvmfc.suo" Description="File successfully backed up as C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc.suo.old">
+</Event><Event ErrorLevel="0" Project="opencvmfc" Source="opencvmfc\opencvmfc.vcproj" Description="Converting project file 'C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc\opencvmfc.vcproj'.">
+</Event><Event ErrorLevel="1" Project="opencvmfc" Source="opencvmfc\opencvmfc.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="opencvmfc" Source="opencvmfc\opencvmfc.vcproj" Description="Done converting to new project file 'C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc\opencvmfc.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="opencvmfc" Source="opencvmfc\opencvmfc.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="opencvmfc.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="opencvmfc.sln" Description="Converted">
+</Event></UpgradeLog>

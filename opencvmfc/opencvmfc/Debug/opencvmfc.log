@@ -1,0 +1,20 @@
+﻿Build started 2/10/2016 10:53:18 PM.
+     1>Project "C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc\opencvmfc.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\opencvmfc.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\opencvmfc.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\opencvmfc.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\opencvmfc.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt opencvmfc.cpp opencvmfcDlg.cpp
+         opencvmfcDlg.cpp
+     1>c:\users\gavan\desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc\opencvmfc.h(12): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+         opencvmfc.cpp
+     1>c:\users\gavan\desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc\opencvmfc.h(12): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Gavan\Desktop\all projects\我做过的软件以及大作业\20072813_刘国良_图像区域匹配\原工程文件\opencvmfc\opencvmfc\opencvmfc.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.56
